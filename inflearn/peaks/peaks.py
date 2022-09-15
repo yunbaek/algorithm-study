@@ -21,3 +21,5 @@ for i in range(1, n + 1):
             count += 1
 
 print(count)
+
+reason: no instance(s) of type variable(s) exist so that PrecedeSubjectItemValidateDTO conforms to BatchCourseRunBaseDTO
